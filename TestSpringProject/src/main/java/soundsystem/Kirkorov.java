@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
  * @author Anton Nazarov
  * @since 27 Aug 2018
  */
-@Component("Idiot")
+// @Component("Idiot")
 public class Kirkorov implements CompactDisk {
     private String title = "You're my Bunny";
     private String artist = "Kirkorov";
