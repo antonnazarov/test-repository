@@ -1,7 +1,5 @@
 package soundsystem;
 
-import org.springframework.stereotype.Component;
-
 /**
  * A first implementation of the CompactDisk- interface.
  * 
